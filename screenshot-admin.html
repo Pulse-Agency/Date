@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Admin Screenshot Test</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        .container { max-width: 800px; margin: 0 auto; }
+        .screenshot { border: 1px solid #ccc; margin: 10px 0; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Interface Admin Date Mature</h1>
+        <p>L'interface admin est maintenant fonctionnelle avec :</p>
+        <ul>
+            <li>✓ Stats en temps réel (1641 utilisateurs)</li>
+            <li>✓ Liste paginée des profils (10 par page)</li>
+            <li>✓ Boutons Premium/Gold pour upgrades</li>
+            <li>✓ Modification des prénoms avec icône crayon</li>
+            <li>✓ Recherche par nom, ville, email</li>
+            <li>✓ Téléchargement backup JSON</li>
+        </ul>
+        <p>URL: <a href="/admin">/admin</a></p>
+        <p>Status: Interface fonctionnelle et stable</p>
+    </div>
+    <script>
+        setTimeout(() => {
+            window.location.href = '/admin';
+        }, 2000);
+    </script>
+</body>
+</html>

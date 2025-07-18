@@ -1,0 +1,47 @@
+{"profiles":[
+    "city": "Tours",
+    "bio": "Retraité actif, je partage mon temps entre mes petits-enfants et mes passions.",
+    "interests": [
+      "Yoga",
+      "Danse",
+      "Bénévolat"
+    ],
+    "photo": "https://randomuser.me/api/portraits/women/88.jpg",
+    "subscription": "gratuit",
+    "email": "jacqueline45@example.com",
+    "dailyFlashesUsed": 0,
+    "lastFlashReset": "2025-07-06T16:12:01.843Z",
+    "isTestProfile": false,
+    "createdAt": "2025-07-06T16:12:01.843Z"
+  },
+  {
+    "id": 2,
+    "firstName": "Nicole",
+    "age": 54,
+    "city": "Blois",
+    "bio": "Passionné de nature, j'aime les balades et les moments de tranquillité.",
+    "interests": [
+      "Bricolage",
+      "Tricot",
+      "Natation",
+      "Pêche"
+    ],
+    "photo": "https://randomuser.me/api/portraits/women/91.jpg",
+    "subscription": "gratuit",
+    "email": "nicole54@example.com",
+    "dailyFlashesUsed": 0,
+    "lastFlashReset": "2025-07-06T16:12:01.843Z",
+    "isTestProfile": false,
+    "createdAt": "2025-07-06T16:12:01.843Z"
+  },
+  {
+    "id": 3,
+    "firstName": "Patrick",
+    "age": 61,
+    "city": "Tours",
+    "bio": "Épicurien dans l'âme, j'apprécie les plaisirs simples de la vie.",
+    "interests": [
+      "Photographie",
+      "Natation",
+      "Tricot",
+]}

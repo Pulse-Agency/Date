@@ -1,0 +1,13 @@
+{
+  "profiles": [
+    {
+      "firstName": "TestUpload",
+      "age": 55,
+      "gender": "F",
+      "city": "Paris",
+      "bio": "Test profil upload",
+      "photo": "https://randomuser.me/api/portraits/women/1.jpg",
+      "interests": ["Lecture", "Voyages"]
+    }
+  ]
+}

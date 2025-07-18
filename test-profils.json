@@ -1,0 +1,14 @@
+[
+  {
+    "firstName": "Marie",
+    "age": 52,
+    "city": "Lyon",
+    "photo": "https://randomuser.me/api/portraits/women/75.jpg"
+  },
+  {
+    "firstName": "Pierre",
+    "age": 58,
+    "city": "Marseille",
+    "photo": "https://randomuser.me/api/portraits/men/40.jpg"
+  }
+]

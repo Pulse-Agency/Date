@@ -1,0 +1,28 @@
+{
+  "profiles": [
+    {
+      "firstName": "TestPhotoA",
+      "age": 50,
+      "gender": "F",
+      "city": "Lyon",
+      "photo": "https://randomuser.me/api/portraits/women/10.jpg",
+      "bio": "Test photo femme"
+    },
+    {
+      "firstName": "TestPhotoB", 
+      "age": 52,
+      "gender": "H",
+      "city": "Nice",
+      "photo": "https://randomuser.me/api/portraits/men/20.jpg",
+      "bio": "Test photo homme"
+    },
+    {
+      "firstName": "TestPhotoC",
+      "age": 48,
+      "gender": "F", 
+      "city": "Marseille",
+      "photo": "https://randomuser.me/api/portraits/women/30.jpg",
+      "bio": "Test photo femme 2"
+    }
+  ]
+}

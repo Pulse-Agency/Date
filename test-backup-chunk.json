@@ -1,0 +1,50 @@
+      "Cyclisme"
+    ],
+    "photo": "https://randomuser.me/api/portraits/men/85.jpg",
+    "subscription": "gratuit",
+    "email": "patrick61@example.com",
+    "dailyFlashesUsed": 0,
+    "lastFlashReset": "2025-07-06T16:12:01.843Z",
+    "isTestProfile": false,
+    "createdAt": "2025-07-06T16:12:01.843Z"
+  },
+  {
+    "id": 4,
+    "firstName": "Sylvie",
+    "age": 54,
+    "city": "Montargis",
+    "bio": "Grand-mère comblée, je cherche une compagne pour profiter pleinement de la retraite.",
+    "interests": [
+      "Cyclisme",
+      "Tricot",
+      "Histoire"
+    ],
+    "photo": "https://randomuser.me/api/portraits/women/48.jpg",
+    "subscription": "gratuit",
+    "email": "sylvie54@example.com",
+    "dailyFlashesUsed": 0,
+    "lastFlashReset": "2025-07-06T16:12:01.844Z",
+    "isTestProfile": false,
+    "createdAt": "2025-07-06T16:12:01.844Z"
+  },
+  {
+    "id": 5,
+    "firstName": "Alain",
+    "age": 65,
+    "city": "Tours",
+    "bio": "Sportif dans l'âme, je maintiens ma forme et cherche un partenaire actif.",
+    "interests": [
+      "Bridge",
+      "Bricolage",
+      "Natation",
+      "Tricot",
+      "Lecture"
+    ],
+    "photo": "https://randomuser.me/api/portraits/men/85.jpg",
+    "subscription": "gratuit",
+    "email": "alain65@example.com",
+    "dailyFlashesUsed": 0,
+    "lastFlashReset": "2025-07-06T16:12:01.844Z",
+    "isTestProfile": false,
+    "createdAt": "2025-07-06T16:12:01.844Z"
+  },

@@ -1,0 +1,353 @@
+{
+  "users": [
+    {
+      "id": 2669,
+      "firstName": "Alain",
+      "gender": "F",
+      "age": 65,
+      "city": "Tours",
+      "region": "\u00cele-de-France",
+      "bio": "Sportif dans l'\u00e2me, je maintiens ma forme et cherche un partenaire actif.",
+      "interests": [
+        "Bridge",
+        "Bricolage",
+        "Natation",
+        "Tricot",
+        "Lecture"
+      ],
+      "photos": [
+        "https://randomuser.me/api/portraits/men/85.jpg"
+      ],
+      "subscription": "gratuit",
+      "email": "alain65@example.com",
+      "dailyFlashesUsed": 0,
+      "lastFlashReset": "2025-07-07T07:04:55.579Z",
+      "isTestProfile": false,
+      "referralCode": null,
+      "referredById": null,
+      "bonusFlashes": 0,
+      "subscriptionEndDate": null,
+      "lookingForGender": "both",
+      "lookingForAgeMin": 40,
+      "lookingForAgeMax": 75,
+      "lookingForDistance": "same_region",
+      "lookingForRelationType": "both",
+      "preferencesCompleted": false,
+      "createdAt": "2025-07-07T07:04:55.529Z"
+    },
+    {
+      "id": 2720,
+      "firstName": "Alain",
+      "gender": "F",
+      "age": 61,
+      "city": "Concarneau",
+      "region": "\u00cele-de-France",
+      "bio": "Artiste amateur, je peins et dessine pour exprimer ma cr\u00e9ativit\u00e9.",
+      "interests": [
+        "Cuisine",
+        "Natation"
+      ],
+      "photos": [
+        "https://randomuser.me/api/portraits/men/92.jpg"
+      ],
+      "subscription": "gratuit",
+      "email": "alain61@example.com",
+      "dailyFlashesUsed": 0,
+      "lastFlashReset": "2025-07-07T07:05:00.769Z",
+      "isTestProfile": false,
+      "referralCode": null,
+      "referredById": null,
+      "bonusFlashes": 0,
+      "subscriptionEndDate": null,
+      "lookingForGender": "both",
+      "lookingForAgeMin": 40,
+      "lookingForAgeMax": 75,
+      "lookingForDistance": "same_region",
+      "lookingForRelationType": "both",
+      "preferencesCompleted": false,
+      "createdAt": "2025-07-07T07:05:00.718Z"
+    },
+    {
+      "id": 2736,
+      "firstName": "Alain",
+      "gender": "F",
+      "age": 62,
+      "city": "Arcachon",
+      "region": "\u00cele-de-France",
+      "bio": "Ancien professeur, je cultive ma curiosit\u00e9 \u00e0 travers les voyages et la lecture.",
+      "interests": [
+        "Danse",
+        "Cyclisme"
+      ],
+      "photos": [
+        "https://randomuser.me/api/portraits/men/95.jpg"
+      ],
+      "subscription": "gratuit",
+      "email": "alain62@example.com",
+      "dailyFlashesUsed": 0,
+      "lastFlashReset": "2025-07-07T07:05:02.295Z",
+      "isTestProfile": false,
+      "referralCode": null,
+      "referredById": null,
+      "bonusFlashes": 0,
+      "subscriptionEndDate": null,
+      "lookingForGender": "both",
+      "lookingForAgeMin": 40,
+      "lookingForAgeMax": 75,
+      "lookingForDistance": "same_region",
+      "lookingForRelationType": "both",
+      "preferencesCompleted": false,
+      "createdAt": "2025-07-07T07:05:02.244Z"
+    },
+    {
+      "id": 2695,
+      "firstName": "Andr\u00e9",
+      "gender": "F",
+      "age": 64,
+      "city": "Dieppe",
+      "region": "\u00cele-de-France",
+      "bio": "Sportif dans l'\u00e2me, je maintiens ma forme et cherche un partenaire actif.",
+      "interests": [
+        "Histoire",
+        "Danse",
+        "Cin\u00e9ma",
+        "Photographie"
+      ],
+      "photos": [
+        "https://randomuser.me/api/portraits/men/3.jpg"
+      ],
+      "subscription": "gratuit",
+      "email": "andre64@example.com",
+      "dailyFlashesUsed": 0,
+      "lastFlashReset": "2025-07-07T07:04:58.226Z",
+      "isTestProfile": false,
+      "referralCode": null,
+      "referredById": null,
+      "bonusFlashes": 0,
+      "subscriptionEndDate": null,
+      "lookingForGender": "both",
+      "lookingForAgeMin": 40,
+      "lookingForAgeMax": 75,
+      "lookingForDistance": "same_region",
+      "lookingForRelationType": "both",
+      "preferencesCompleted": false,
+      "createdAt": "2025-07-07T07:04:58.175Z"
+    },
+    {
+      "id": 2722,
+      "firstName": "Andr\u00e9",
+      "gender": "F",
+      "age": 64,
+      "city": "Concarneau",
+      "region": "\u00cele-de-France",
+      "bio": "Veuf depuis peu, je souhaite retrouver la joie de partager avec quelqu'un de sp\u00e9cial.",
+      "interests": [
+        "Cin\u00e9ma",
+        "Cyclisme",
+        "Musique",
+        "Voyages"
+      ],
+      "photos": [
+        "https://randomuser.me/api/portraits/men/94.jpg"
+      ],
+      "subscription": "gratuit",
+      "email": "andre64@example.com",
+      "dailyFlashesUsed": 0,
+      "lastFlashReset": "2025-07-07T07:05:00.973Z",
+      "isTestProfile": false,
+      "referralCode": null,
+      "referredById": null,
+      "bonusFlashes": 0,
+      "subscriptionEndDate": null,
+      "lookingForGender": "both",
+      "lookingForAgeMin": 40,
+      "lookingForAgeMax": 75,
+      "lookingForDistance": "same_region",
+      "lookingForRelationType": "both",
+      "preferencesCompleted": false,
+      "createdAt": "2025-07-07T07:05:00.923Z"
+    },
+    {
+      "id": 2679,
+      "firstName": "Annie",
+      "gender": "F",
+      "age": 61,
+      "city": "Bourges",
+      "region": "\u00cele-de-France",
+      "bio": "Retrait\u00e9 actif, je partage mon temps entre mes petits-enfants et mes passions.",
+      "interests": [
+        "Musique",
+        "Danse",
+        "Bridge"
+      ],
+      "photos": [
+        "https://randomuser.me/api/portraits/women/93.jpg"
+      ],
+      "subscription": "gratuit",
+      "email": "annie61@example.com",
+      "dailyFlashesUsed": 0,
+      "lastFlashReset": "2025-07-07T07:04:56.597Z",
+      "isTestProfile": false,
+      "referralCode": null,
+      "referredById": null,
+      "bonusFlashes": 0,
+      "subscriptionEndDate": null,
+      "lookingForGender": "both",
+      "lookingForAgeMin": 40,
+      "lookingForAgeMax": 75,
+      "lookingForDistance": "same_region",
+      "lookingForRelationType": "both",
+      "preferencesCompleted": false,
+      "createdAt": "2025-07-07T07:04:56.546Z"
+    },
+    {
+      "id": 2672,
+      "firstName": "Bernard",
+      "gender": "F",
+      "age": 47,
+      "city": "Montargis",
+      "region": "\u00cele-de-France",
+      "bio": "Ex-cadre d'entreprise, je savoure enfin le temps libre pour mes loisirs favoris.",
+      "interests": [
+        "Randonn\u00e9e",
+        "Art",
+        "Bridge",
+        "Cyclisme",
+        "Musique"
+      ],
+      "photos": [
+        "https://randomuser.me/api/portraits/men/61.jpg"
+      ],
+      "subscription": "gratuit",
+      "email": "bernard47@example.com",
+      "dailyFlashesUsed": 0,
+      "lastFlashReset": "2025-07-07T07:04:55.885Z",
+      "isTestProfile": false,
+      "referralCode": null,
+      "referredById": null,
+      "bonusFlashes": 0,
+      "subscriptionEndDate": null,
+      "lookingForGender": "both",
+      "lookingForAgeMin": 40,
+      "lookingForAgeMax": 75,
+      "lookingForDistance": "same_region",
+      "lookingForRelationType": "both",
+      "preferencesCompleted": false,
+      "createdAt": "2025-07-07T07:04:55.834Z"
+    },
+    {
+      "id": 2735,
+      "firstName": "Bernard",
+      "gender": "F",
+      "age": 44,
+      "city": "Bergerac",
+      "region": "\u00cele-de-France",
+      "bio": "Passionn\u00e9 de nature, j'aime les balades et les moments de tranquillit\u00e9.",
+      "interests": [
+        "Cin\u00e9ma",
+        "Bridge",
+        "Th\u00e9\u00e2tre",
+        "Musique",
+        "Danse"
+      ],
+      "photos": [
+        "https://randomuser.me/api/portraits/men/37.jpg"
+      ],
+      "subscription": "gratuit",
+      "email": "bernard44@example.com",
+      "dailyFlashesUsed": 0,
+      "lastFlashReset": "2025-07-07T07:05:02.193Z",
+      "isTestProfile": false,
+      "referralCode": null,
+      "referredById": null,
+      "bonusFlashes": 0,
+      "subscriptionEndDate": null,
+      "lookingForGender": "both",
+      "lookingForAgeMin": 40,
+      "lookingForAgeMax": 75,
+      "lookingForDistance": "same_region",
+      "lookingForRelationType": "both",
+      "preferencesCompleted": false,
+      "createdAt": "2025-07-07T07:05:02.143Z"
+    },
+    {
+      "id": 2697,
+      "firstName": "Brigitte",
+      "gender": "F",
+      "age": 46,
+      "city": "\u00c9vreux",
+      "region": "\u00cele-de-France",
+      "bio": "Amoureuse de la nature, je profite de ma retraite pour d\u00e9couvrir de nouveaux horizons.",
+      "interests": [
+        "Bridge",
+        "Tricot"
+      ],
+      "photos": [
+        "https://randomuser.me/api/portraits/women/85.jpg"
+      ],
+      "subscription": "gratuit",
+      "email": "brigitte46@example.com",
+      "dailyFlashesUsed": 0,
+      "lastFlashReset": "2025-07-07T07:04:58.429Z",
+      "isTestProfile": false,
+      "referralCode": null,
+      "referredById": null,
+      "bonusFlashes": 0,
+      "subscriptionEndDate": null,
+      "lookingForGender": "both",
+      "lookingForAgeMin": 40,
+      "lookingForAgeMax": 75,
+      "lookingForDistance": "same_region",
+      "lookingForRelationType": "both",
+      "preferencesCompleted": false,
+      "createdAt": "2025-07-07T07:04:58.378Z"
+    },
+    {
+      "id": 2724,
+      "firstName": "Brigitte",
+      "gender": "F",
+      "age": 49,
+      "city": "Rennes",
+      "region": "\u00cele-de-France",
+      "bio": "Veuf depuis peu, je souhaite retrouver la joie de partager avec quelqu'un de sp\u00e9cial.",
+      "interests": [
+        "Cuisine",
+        "Lecture",
+        "Danse"
+      ],
+      "photos": [
+        "https://randomuser.me/api/portraits/women/40.jpg"
+      ],
+      "subscription": "gratuit",
+      "email": "brigitte49@example.com",
+      "dailyFlashesUsed": 0,
+      "lastFlashReset": "2025-07-07T07:05:01.176Z",
+      "isTestProfile": false,
+      "referralCode": null,
+      "referredById": null,
+      "bonusFlashes": 0,
+      "subscriptionEndDate": null,
+      "lookingForGender": "both",
+      "lookingForAgeMin": 40,
+      "lookingForAgeMax": 75,
+      "lookingForDistance": "same_region",
+      "lookingForRelationType": "both",
+      "preferencesCompleted": false,
+      "createdAt": "2025-07-07T07:05:01.126Z"
+    }
+  ],
+  "stats": {
+    "total": 83,
+    "filtered": 83,
+    "premium": 0,
+    "gold": 0,
+    "withPhotos": 83,
+    "starProfiles": 0
+  },
+  "pagination": {
+    "page": 1,
+    "limit": 10,
+    "total": 83,
+    "pages": 9
+  }
+}
